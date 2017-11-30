@@ -1,0 +1,5 @@
+C:\adaware\xReward\XReward\_build\Debug\XRewardWCF.dll
+C:\adaware\xReward\XReward\_build\Debug\XRewardWCF.pdb
+C:\adaware\xReward\XReward\XRewardWCF\obj\Debug\XRewardWCF.csprojResolveAssemblyReference.cache
+C:\adaware\xReward\XReward\XRewardWCF\obj\Debug\XRewardWCF.dll
+C:\adaware\xReward\XReward\XRewardWCF\obj\Debug\XRewardWCF.pdb

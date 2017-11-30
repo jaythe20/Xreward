@@ -1,0 +1,5 @@
+C:\adaware\xReward\XReward\_build\Debug\XRewardWinService.exe
+C:\adaware\xReward\XReward\_build\Debug\XRewardWinService.pdb
+C:\adaware\xReward\XReward\XRewardWinService\obj\Debug\XRewardWinService.csprojResolveAssemblyReference.cache
+C:\adaware\xReward\XReward\XRewardWinService\obj\Debug\XRewardWinService.exe
+C:\adaware\xReward\XReward\XRewardWinService\obj\Debug\XRewardWinService.pdb
